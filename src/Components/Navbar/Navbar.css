@@ -17,8 +17,8 @@ header{
     justify-content: space-between;
     align-items: center;
     z-index: 99;
-    box-shadow: 0 0 10px #000;
-    background: rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px #724012;
+    background: rgb(241, 190, 142);
 }
 #chk1{
     display: none;

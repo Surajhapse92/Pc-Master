@@ -5,7 +5,7 @@ import Login from './Views/Login/Login';
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Home from './Views/Home/Home';
-
+import Product from './Views/Product/Product';
 
 
  function App() {
@@ -19,6 +19,7 @@ import Home from './Views/Home/Home';
         <Route path="Navbar" element={<Navbar/>} />
         <Route path="Footer" element={<Footer/>} />
         <Route path="Home" element={<Home/>} />
+        <Route path='Product' element={<Product/>}/>
 
         
               
