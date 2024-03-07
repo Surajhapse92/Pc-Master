@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Home from './Views/Home/Home';
 import Product from './Views/Product/Product';
+import Contact from './Views/Contact/Contact';
 
 
  function App() {
@@ -20,7 +21,7 @@ import Product from './Views/Product/Product';
         <Route path="Footer" element={<Footer/>} />
         <Route path="Home" element={<Home/>} />
         <Route path='Product' element={<Product/>}/>
-
+        <Route path='Contact' element={<Contact/>}/>
         
               
         </Routes> 
