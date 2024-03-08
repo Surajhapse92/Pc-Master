@@ -30,8 +30,8 @@ export default function Navbar() {
                     <li><a href="#">Blog</a></li>
                     <li><a href="Contact">Contact</a></li>
                     <li>
-                        <a href="#"><i className="fa fa-shopping-cart"></i></a>
-                        <a href="#"><i className="fa fa-twitter"></i></a>
+                    <a href="#"><i className="fa fa-shopping-cart"></i></a>
+                    <a href="#"><i className="fa fa-twitter"></i></a>
                         <a href="#"><i className="fa fa-instagram"></i></a>
 
                     </li>

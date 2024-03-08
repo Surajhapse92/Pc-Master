@@ -31,15 +31,14 @@ inputs.forEach((input) => {
     <div>
     <Navbar />
         <div>
-       <div class="container22">
+       <div className="container22">
       <span className="big-circle"></span>
       <img src={shape} className="square" alt="" />
       <div className="form22">
         <div className="contact-info">
           <h3 className="title">Let's get in touch</h3>
           <p className="text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            dolorum adipisci recusandae praesentium dicta!
+          I'm here to help! Feel free to ask any questions or share what you'd like to discuss, and I'll do my best to assist you.
           </p>
 
           <div className="info22">
@@ -80,26 +79,26 @@ inputs.forEach((input) => {
           <span className="circle one"></span>
           <span className="circle two"></span>
 
-          <form action="index.html" autocomplete="off">
+          <form action="index.html" className="contact-us-form" autoComplete="off">
             <h3 className="title22">Contact us</h3>
             <div className="input-container">
               <input type="text" name="name" className="input" />
-              <label for="">Username</label>
+              <label htmlFor="">Username</label>
               <span>Username</span>
             </div>
             <div className="input-container">
               <input type="email" name="email" className="input" />
-              <label for="">Email</label>
+              <label htmlFor="">Email</label>
               <span>Email</span>
             </div>
             <div className="input-container">
               <input type="tel" name="phone" className="input" />
-              <label for="">Phone</label>
+              <label htmlFor="">Phone</label>
               <span>Phone</span>
             </div>
             <div className="input-container textarea">
               <textarea name="message" className="input"></textarea>
-              <label for="">Message</label>
+              <label htmlFor="">Message</label>
               <span>Message</span>
             </div>
             <input type="submit" value="Send" className="btn22" />

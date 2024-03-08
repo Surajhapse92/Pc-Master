@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../../Components/Navbar/Navbar'
 import "./Home.css"
-import wp1 from "../../assets/wp/wp1.jpg"
+
 import freeshipping from "../../assets/Free shipping.png"
 import a24 from "../../assets/f24.gif"
 import f3 from "../../assets/f3.png"

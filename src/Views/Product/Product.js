@@ -6,7 +6,7 @@ export default function Product() {
     <div>
         <Navbar />
             <div>
-               nghgh
+               nghghhjgghgjhgjhghjgjhgjhggjhgjhgjhgjhgjhgjhgyu76tuytuytuytguiytytruytuytuytiutuytiuyytuiyhiuyihiuybyituytytrytruyrtyterytfuytyutruytuytuytyutytuytuytuyt
             </div>
       
     </div>
