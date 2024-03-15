@@ -7,6 +7,8 @@ import Footer from './Components/Footer/Footer';
 import Home from './Views/Home/Home';
 import Product from './Views/Product/Product';
 import Contact from './Views/Contact/Contact';
+import PDetails from './Views/Product/PDetails';
+
 
 
  function App() {
@@ -22,7 +24,8 @@ import Contact from './Views/Contact/Contact';
         <Route path="Home" element={<Home/>} />
         <Route path='Product' element={<Product/>}/>
         <Route path='Contact' element={<Contact/>}/>
-        
+        <Route path='PDetails' element={<PDetails/>}/>
+       
               
         </Routes> 
       </BrowserRouter>

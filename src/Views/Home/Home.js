@@ -16,6 +16,7 @@ import hpg1 from "../../assets/gaming cpu/HP Victus 15L Gaming.jpg"
 import hpo2 from "../../assets/gaming cpu/hp omen2.jpg"
 import Antivirus from "../../assets/banner/antivirus.jpg"
 import Drivers from "../../assets/banner/Driver-Updating-Software.jpg"
+import Footer from '../../Components/Footer/Footer'
 
 
 export default function Home() {
@@ -27,7 +28,7 @@ export default function Home() {
                     <h4>Trade-in-offer</h4>
                     <h2>Super value deals</h2>
                     <h1>On all Products</h1>
-                    <p>Save with coupns & up to off!</p>
+                    <p className='p-home'>Save with coupns & up to off!</p>
                     <a href=""><button>Shop Now</button></a>
 
                 </section>
@@ -71,7 +72,7 @@ export default function Home() {
                     <div class="pro-container">
                         <div class="pro">
                             <img src={c1} alt="" />
-                            <div class="des">
+                            <div class="des" >
                                 <span>New Brand</span>
                                 <h5>Gaming CPU</h5>
                                 <div class="star">
@@ -84,7 +85,7 @@ export default function Home() {
                                 <h4>₹80,000</h4>
                             </div>
                             <button class="button-33">Buy</button>
-                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                            <a href="PDetails"><i class="fal fa-shopping-cart cart"></i></a>
 
 
                         </div>
@@ -109,7 +110,7 @@ export default function Home() {
                             <img src={c3} alt="" />
                             <div class="des">
                                 <span>70%</span>
-                                <h5>Gaming CPU</h5>
+                                <h5>Gaming CPU 5</h5>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -120,7 +121,7 @@ export default function Home() {
                                 <h4>₹499</h4>
                             </div>
                             <button class="button-33">Buy</button>
-                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                            <a href="pro1"><i class="fal fa-shopping-cart cart"></i></a>
                         </div>
                         <div class="pro">
                             <img src={hpg1} alt="" />
@@ -243,10 +244,10 @@ export default function Home() {
 
 
             </div>
-          
+            <Footer/>
         </div>
        
-       
+      
 
     )
 }

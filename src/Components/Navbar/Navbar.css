@@ -12,13 +12,14 @@ body{
 }
 header{
     width:100%;
-    height: 10 0px;
+    height: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+  
     z-index: 99;
-    box-shadow: 0 0 10px #000;
-    background: rgb(241, 190, 142);
+    box-shadow: 0 0 10px hsl(60, 5%, 84%);
+    background: hsla(29, 95%, 56%, 0.856);
 }
 #chk1{
     display: none;
@@ -70,7 +71,7 @@ header .search-box{
     color: #fff;
 }
 header ul {
-    flex: 2;
+    flex:2;
     display: flex;
     justify-content: space-evenly;
 }
@@ -91,18 +92,17 @@ header .menu{
     font-size: 2.5em;
     display: none;
 }
-ul.dropdown-menu.show {
-    height: 123px;
-    display: flow
+.dropdown-menu.show {
+    display: block;
+    height: 134px;
 }
-
 @media(max-width:1000px){
     .search-box button{
         position: absolute;
     }
     header ul{
-        position: absolute;
-        top: 80px;
+        position: fixed;
+        top:100px;
         right: -100%;
         background: rgba(0,0,0,0.5);
         height: calc(100vh - 100px);
@@ -110,6 +110,7 @@ ul.dropdown-menu.show {
         flex-direction: column;
         align-items: center;
         transition: right 0.5s linear;
+      
     }
      
     header .menu{
@@ -119,7 +120,6 @@ ul.dropdown-menu.show {
     }
     #chk1:checked ~ ul{
         right: 0;
-    
         
     }
   
