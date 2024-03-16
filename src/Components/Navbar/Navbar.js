@@ -6,7 +6,7 @@ export default function Navbar() {
         <div>
             <header>
                 <input type="checkbox" name="" id="chk1" />
-                <div className="logo"><h1 className='Logo-name'>Pc Master</h1></div>
+                <div className="logo"><h1 className='logo-name'>Pc Master</h1></div>
                 <div className="search-box">
                     <form>
                         <input type="text" name="search" id="srch" placeholder="Search" />

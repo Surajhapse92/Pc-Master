@@ -8,7 +8,7 @@ import Home from './Views/Home/Home';
 import Product from './Views/Product/Product';
 import Contact from './Views/Contact/Contact';
 import PDetails from './Views/Product/PDetails';
-
+import Antivirus from "./Views/Antivirus/Antivirus";
 
 
  function App() {
@@ -25,6 +25,7 @@ import PDetails from './Views/Product/PDetails';
         <Route path='Product' element={<Product/>}/>
         <Route path='Contact' element={<Contact/>}/>
         <Route path='PDetails' element={<PDetails/>}/>
+        <Route path='Antivirus' element={<Antivirus/>}/>
        
               
         </Routes> 
