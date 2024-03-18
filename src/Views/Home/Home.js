@@ -69,7 +69,7 @@ export default function Home() {
                 <section id="Product1" class="section-p1">
                     <h2>Featured Products</h2>
                     <p></p>
-                    <div class="pro-container">
+                    <div class="pro-container" id='pro-container'>
                         <div class="pro">
                             <img src={c1} alt="" />
                             <div class="des" >
@@ -93,7 +93,7 @@ export default function Home() {
                             <img src={c2} alt="" />
                             <div class="des">
                                 <span>50% off</span>
-                                <h5>Gaming CPU</h5>
+                                <h5>new mi</h5>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>

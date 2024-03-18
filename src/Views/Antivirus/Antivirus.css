@@ -1,6 +1,6 @@
-#banner-anti{
-    background-image: url("../../assets/Hero.jpg");
-    height: 90vh;
+/* #banner-anti{
+    background-image: url("../../assets/antivirus/antivirus\ \(1\).jpg");
+    height: 41vh;
     width: 100%;
     background-position: top 20% right 0;
     padding: 0 80px;
@@ -8,4 +8,5 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-  }
+    background-repeat: no-repeat;
+} */

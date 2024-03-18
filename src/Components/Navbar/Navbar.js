@@ -2,6 +2,27 @@ import React from 'react'
 import "./Navbar.css"
 import { Link } from 'react-router-dom';
 export default function Navbar() {
+    const search = () => {
+        const searchbox = document.getElementById("search-item").ariaValueMax.toUpperCase();
+        const storeitems = document.getElementById("pro-container")
+        const product = document.querySelectorAll("pro")
+        const pname = storeitems.getElementsByTagName("h5")
+
+        for (var i = 0; i < pname.length; i++) {
+            let match = product[i].getElementsByTagName('h5')[0];
+
+            if (match) {
+                let textvalue = match.textContent || match.innerHTML
+
+                if (textvalue.toUpperCase().indexOf(searchbox) > -1) {
+                product[i].style.display = "";
+                } else {
+                    product[i].style.display = "none";
+                }
+            }
+        }
+    
+    }
     return (
         <div>
             <header>
@@ -9,7 +30,7 @@ export default function Navbar() {
                 <div className="logo"><h1 className='logo-name'>Pc Master</h1></div>
                 <div className="search-box">
                     <form>
-                        <input type="text" name="search" id="srch" placeholder="Search" />
+                        <input type="text" name="search" id="search-item" placeholder="Search products" />
                         <button type="submit"><i className="fa fa-search"></i></button>
                     </form>
                 </div>
