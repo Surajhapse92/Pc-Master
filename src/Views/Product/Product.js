@@ -20,6 +20,7 @@ export default function Product() {
             </h1>
           </div>
         </section>
+
         {/* Product */}
         <section id="Product1" class="section-p1">
 
@@ -167,7 +168,159 @@ export default function Product() {
 
         </section>
 
+        {/* Gaming Monitor */}
+
         <section id="Product1" class="section-p1">
+          <div class="twelve">
+            <h1>Gaming Monitor</h1>
+          </div>
+          <p></p>
+          <div class="pro-container">
+            <div class="pro">
+              <img src="https://www.lg.com/content/dam/channel/wcms/in/images/monitors/34gp63a-b_atr_eail_in_c/34GP63A-B-Basic-450.jpg" alt="" />
+              <div class="des" >
+                <span>34GP63A-B</span>
+                <h5>34 (86.36 cm) UltraGear™ 21:9 Curved WQHD Gaming Monitor</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹36,000</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="PDetails"><i class="fal fa-shopping-cart cart"></i></a>
+
+
+            </div>
+            <div class="pro">
+              <img src="https://www.lg.com/content/dam/channel/wcms/in/images/monitors/32gn650-b_atr_eail_in_c/32GN650-B-450.jpg" alt="" />
+              <div class="des">
+                <span>32GN650-B</span>
+                <h5>LG 32GN650-B Ultragear Gaming Monitor 32 (81.28cm) QHD (2560 x 1440) Display, 165Hz Refresh Rate, 1ms MBR, HDR 10, sRGB 95% Color Gamut, AMD</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹24,199</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://dlcdnwebimgs.asus.com/gain/3C403FED-60E2-47A8-B974-5EB76DAEEEDA/w717/h525" alt="" />
+              <div class="des">
+                <span>NEW</span>
+                <h5>ROG Swift OLED PG49WCD gaming monitor ― 49-inch (5120x1440) curved QD-OLED panel, 144 Hz, 0.03 ms, G-SYNC® compatible</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹---</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="pro1"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://dlcdnwebimgs.asus.com/gain/89F9724B-C474-4F0B-B33A-D354D0BBF1D6/w717/h525" alt="" />
+              <div class="des">
+                <span>70%</span>
+                <h5>ROG Strix XG438QR HDR Large Gaming Monitor — 43-inch, 4K (3840 x 2160), 120 Hz, FreeSync™ Premium Pro, DisplayHDR™ 600, DCI-P3 90%, Shadow Boost</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹499</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://images.samsung.com/is/image/samsung/p6pim/in/ls49cg950swxxl/gallery/in-odyssey-oled-g9-g95sc-ls49cg950swxxl-537187974?$650_519_PNG$" alt="" />
+              <div class="des">
+                <span>Samsung</span>
+                <h5>1.24 m OLED G9 Gaming Monitor with Neo Quantum Processor, 0.03ms GTG response time and 240Hz refresh screen</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹166,099.00</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://m.media-amazon.com/images/I/71s0ClPZK7L._AC_SX466_.jpg" alt="" />
+              <div class="des">
+                <span>70%</span>
+                <h5>Sony 27” INZONE M9 4K HDR 144Hz HDMI 2.1 Gaming Monitor with Full Array Local Dimming and NVIDIA G-SYNC</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹64,500</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://images.samsung.com/is/image/samsung/p6pim/in/ls32bg750nwxxl/gallery/in-odyssey-neo-g7-g75nb-ls32bg750nwxxl-533184849?$650_519_PNG$" alt="" />
+              <div class="des">
+                <span>70%</span>
+                <h5> Samsung 81.3 cm UHD Gaming monitor with Quantum Mini-LED and 165Hz refresh rate</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹71,899</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+              <img src="https://images.samsung.com/is/image/samsung/p6pim/in/ls43cg700nwxxl/gallery/in-odyssey-neo-g7-g70nc-ls43cg700nwxxl-534928060?$650_519_PNG$"alt="" />
+              <div class="des">
+                <span>Diwali offer</span>
+                <h5>1m 08cm (43") Neo G7 UHD Gaming Monitor with 144Hz, AMD FreeSync Premium Pro and Smart features</h5>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>₹75,299</h4>
+              </div>
+              <button class="button-33">Buy</button>
+              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+          </div>
+
+        </section>
+
+        {/* Gaming Monitor */}
+
+        {/* <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Gaming Monitor</h1>
           </div>
@@ -313,155 +466,10 @@ export default function Product() {
             </div>
           </div>
 
-        </section>
-        <section id="Product1" class="section-p1">
-          <div class="twelve">
-            <h1>Gaming Monitor</h1>
-          </div>
-          <p></p>
-          <div class="pro-container">
-            <div class="pro">
-              <img src={c1} alt="" />
-              <div class="des" >
-                <span>New Brand</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹80,000</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="PDetails"><i class="fal fa-shopping-cart cart"></i></a>
+        </section> */}
 
-
-            </div>
-            <div class="pro">
-              <img src={c2} alt="" />
-              <div class="des">
-                <span>50% off</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹99,000</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={c3} alt="" />
-              <div class="des">
-                <span>70%</span>
-                <h5>Gaming CPU 5</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹499</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="pro1"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={hpg1} alt="" />
-              <div class="des">
-                <span>70%</span>
-                <h5>HP Victus 15L Gaming</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹499</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={hpo2} alt="" />
-              <div class="des">
-                <span>70%</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹2,64,309</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={c3} alt="" />
-              <div class="des">
-                <span>70%</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹499</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={hpg1} alt="" />
-              <div class="des">
-                <span>70%</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹499</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-            <div class="pro">
-              <img src={c2} alt="" />
-              <div class="des">
-                <span>Diwali offer</span>
-                <h5>Gaming CPU</h5>
-                <div class="star">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                </div>
-                <h4>₹1,599</h4>
-              </div>
-              <button class="button-33">Buy</button>
-              <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
-            </div>
-          </div>
-
-        </section>
-        {/* gruop = 3 */}
+        {/* Graphics Cards */}
+        
         <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Graphics Cards</h1>
@@ -609,7 +617,9 @@ export default function Product() {
           </div>
 
         </section>
-        {/* gruop = 4 */}
+
+        {/* Gaming Laptops */}
+        
         <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Gaming Laptops</h1>
@@ -757,7 +767,10 @@ export default function Product() {
           </div>
 
         </section>
-        <section id="Product1" class="section-p1">
+
+        {/* YourName */}
+
+        {/* <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>YourName</h1>
           </div>
@@ -903,8 +916,10 @@ export default function Product() {
             </div>
           </div>
 
-        </section>
-        <section id="Product1" class="section-p1">
+        </section> */}
+        {/* YourName */}
+        
+        {/* <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>YourName</h1>
           </div>
@@ -1050,7 +1065,10 @@ export default function Product() {
             </div>
           </div>
 
-        </section>
+        </section> */}
+
+        {/* Gaming Station */}
+
         <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Gaming Station</h1>
@@ -1058,10 +1076,10 @@ export default function Product() {
           <p></p>
           <div class="pro-container">
             <div class="pro">
-              <img src="" alt="" />
+              <img src="https://astrixinc.in/cdn/shop/products/IMG_2969_533x.jpg?v=1702551503" alt="" />
               <div class="des" >
                 <span>New Brand</span>
-                <h5>Gaming CPU</h5>
+                <h5>Astrix Baller Gaming Station</h5>
                 <div class="star">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -1069,7 +1087,7 @@ export default function Product() {
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                 </div>
-                <h4>₹80,000</h4>
+                <h4>₹299,199</h4>
               </div>
               <button class="button-33">Buy</button>
               <a href="PDetails"><i class="fal fa-shopping-cart cart"></i></a>
@@ -1077,10 +1095,10 @@ export default function Product() {
 
             </div>
             <div class="pro">
-              <img src={c2} alt="" />
+              <img src="https://astrixinc.in/cdn/shop/files/Vulcan_533x.webp?v=1702551232" alt="" />
               <div class="des">
                 <span>50% off</span>
-                <h5>Gaming CPU</h5>
+                <h5>ASTRIX Vulcan Gaming Station</h5>
                 <div class="star">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -1088,7 +1106,7 @@ export default function Product() {
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                 </div>
-                <h4>₹99,000</h4>
+                <h4>₹274,200</h4>
               </div>
               <button class="button-33">Buy</button>
               <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
@@ -1198,7 +1216,10 @@ export default function Product() {
           </div>
 
         </section>
+
+
         {/* Gaming Desk */}
+        
         <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Gaming Desk</h1>
@@ -1346,7 +1367,9 @@ export default function Product() {
           </div>
 
         </section>
+
         {/* Gaming Chair */}
+
         <section id="Product1" class="section-p1">
           <div class="twelve">
             <h1>Gaming Chair</h1>

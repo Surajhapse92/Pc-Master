@@ -40,7 +40,7 @@ export default function Navbar() {
                     <li><a className=" dropdown-toggle" data-bs-toggle="dropdown" href="#">Features</a>
                         <div className="dropdown">
                             <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="#">Antivirus</a></li>
+                                <li><a className="dropdown-item" href="Antivirus">Antivirus</a></li>
                                 <li><a className="dropdown-item" href="#">Driver<br/>Software </a></li>
                                 <li><a className="dropdown-item" href="#">Something</a></li>
                             </ul>
